@@ -1,0 +1,3 @@
+cd 'C:\Users\OCRONING\OneDrive - Environmental Protection Agency (EPA)\Profile\Documents\TickTickBloom\Inputs\CyFi_Data\' 
+
+C:\Users\OCRONING\AppData\Local\Programs\Python\Python311\python -m cyfi predict 'C:\Users\OCRONING\OneDrive - Environmental Protection Agency (EPA)\Profile\Documents\TickTickBloom\Outputs\Tables\CyAN_to_CyFi_Points.csv' --keep-metadata -o
